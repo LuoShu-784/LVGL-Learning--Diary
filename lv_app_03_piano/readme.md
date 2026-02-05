@@ -53,9 +53,9 @@ int main(void)
 
 ### 🎬 视频演示
 
-**Bilibili** : [📺 点击跳转观看]()
+**Bilibili** : [📺 点击跳转观看](https://www.bilibili.com/video/BV1gaFez8EcS/?share_source=copy_web)
 
-**抖音** : [🎵 点击跳转观看]()
+**抖音** : [🎵 点击跳转观看](https://v.douyin.com/uoIGZXClcvI/)
 
 ---
 
