@@ -22,7 +22,8 @@
 | :--: | :--------------------------------: | :----------------: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
 |  01  | [Cyber Lens](./lv_app_01_cyber_lens/) |  光学镜头视觉效果  | 基础对象 (lv_obj) 与 样式设置 (styles) | [📺 B站](https://www.bilibili.com/video/BV18m6nBGEQe/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/Iwsk1lDTDe8/) |
 |  02  |       [Font](./lv_app_02_font/)       | 字体加载与动态管理 |    标签 (lv_label) 与 字库 (font )    | [📺 B站](https://www.bilibili.com/video/BV1ee6tBNEvk/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/lIt2wB_pt90/) |
-|  03  |      [Piano](./lv_app_03_piano/)      |   交互式模拟钢琴   |   按钮 (lv_btn) 与 事件处理 (event )   |                                           [📺 B站](https://www.bilibili.com/video/BV1gaFez8EcS/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/uoIGZXClcvI/)                                           |
+|  03  |      [Piano](./lv_app_03_piano/)      |   交互式模拟钢琴   |   按钮 (lv_btn) 与 事件处理 (event )   | [📺 B站](https://www.bilibili.com/video/BV1gaFez8EcS/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/uoIGZXClcvI/) |
+|  04  |     [Switch](./lv_app_04_switch/)     |  趣味“无用开关”  |  开关(lv_switch) 与 定时器 (lv_timer)  |                                      [📺 B站]() / [🎵 抖音]()                                      |
 
 ---
 
