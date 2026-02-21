@@ -26,6 +26,7 @@
 |  04  |     [Switch](./lv_app_04_switch/)     |  趣味“无用开关”  |   开关 (switch) 与 定时器 (timer)   | [📺 B站](https://www.bilibili.com/video/BV1naFWzSEY3/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/oVkSjXo1Nlc/) |
 |  05  |      [Login](./lv_app_05_login)      |      登录页面      | 文本框 (textarea) 与键盘 (keyboard) | [📺 B站](https://www.bilibili.com/video/BV1UHFDzgEQk/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/EyoWiSc6OZc) |
 |  06  |  [Day Night](./lv_app_06_day_night)  |    昼夜切换按钮    |             动画（anim）             | [📺 B站](https://www.bilibili.com/video/BV1ijZJBxE3o/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/qA4ffy18gQE/) |
+|  07  |       [HCNY](./lv_app_07_HCNY)       |      新年祝贺      |            进度条（bar）            | [📺 B站](https://www.bilibili.com/video/BV1j4f3B6EBY/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/1uQcaGP2pu8/) |
 
 ---
 
