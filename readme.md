@@ -27,6 +27,7 @@
 |  05  |      [Login](./lv_app_05_login)      |      登录页面      | 文本框 (textarea) 与键盘 (keyboard) | [📺 B站](https://www.bilibili.com/video/BV1UHFDzgEQk/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/EyoWiSc6OZc) |
 |  06  |  [Day Night](./lv_app_06_day_night)  |    昼夜切换按钮    |             动画（anim）             | [📺 B站](https://www.bilibili.com/video/BV1ijZJBxE3o/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/qA4ffy18gQE/) |
 |  07  |       [HCNY](./lv_app_07_HCNY)       |      新年祝贺      |            进度条（bar）            | [📺 B站](https://www.bilibili.com/video/BV1j4f3B6EBY/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/1uQcaGP2pu8/) |
+|  08  |        [PID](./lv_app_08_pid)        |    PID 小球仿真    |           滑动条（slider）           | [📺 B站](https://www.bilibili.com/video/BV16aAkzGE7j/?share_source=copy_web) / [🎵 抖音](https://v.douyin.com/_QJqcdONXx4/) |
 
 ---
 
